@@ -43,5 +43,15 @@ To use the OpenWeatherMap API, you need an API key. Follow these steps to get on
 
 For more information about the API and its capabilities, visit the [OpenWeatherMap website](https://openweathermap.org/).
 
+## 🎥 Demo Video
+
+Watch the demo video to see how the Weather Forecast App works:
+
+<video width="600" controls>
+  <source src="video/video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
 
 Feel free to contribute and enhance the app! 😊
