@@ -13,7 +13,7 @@ This Streamlit app provides a weather forecast for the next days. You can input 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/weather-forecast-app.git
+    git clone https://github.com/anindyaPrivate/Weather-Forecast-APP.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -43,9 +43,19 @@ To use the OpenWeatherMap API, you need an API key. Follow these steps to get on
 
 For more information about the API and its capabilities, visit the [OpenWeatherMap website](https://openweathermap.org/).
 
+## 🖼️ Screenshots
+
+![Temperature Forecast](images/temperature_forecast.png)
+![Sky Conditions](images/sky_conditions.png)
+
+
+
 ## 🎥 Demo Video
 
 Watch the demo video to see how the Weather Forecast App works:
+
+[Download Demo Video](video/video.mp4)
+
 
 <video width="600" controls>
   <source src="video/video.mp4" type="video/mp4">
